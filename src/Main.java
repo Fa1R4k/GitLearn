@@ -4,5 +4,26 @@ public class Main {
         short a = 123;
         long b = 123213213;
         System.out.printf(a + " + " + b);
+
+        System.out.println("sdassdas");
+
+        System.out.println("sdassdas");
+        System.out.println("sdassdas");
+        System.out.println("sdassdas");
+        System.out.println("sdassdas");
+        System.out.println("sdassdas");
+        System.out.println("sdassdas");
+        System.out.println("sdassdas");
+        System.out.println("sdassdas");
+        System.out.println("sdassdas");
+
+
+
+
+
+
+
+
+
     }
 }
